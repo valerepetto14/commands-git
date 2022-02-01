@@ -2,5 +2,5 @@
 echo mensaje del commit:
 read name
 git add .
-git commit -m "$namne"
-git push -u origin master
+git commit -m "$name"
+git push -u origin masteIr
